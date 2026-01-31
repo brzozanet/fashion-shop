@@ -40,7 +40,7 @@ Aplikacja składa się z dwóch części:
 ## 📂 Struktura aplikacji
 
 ```
-project-fashion-shop/
+fashion-shop/
 ├── front-end/                      # Aplikacja React
 │   ├── src/
 │   │   ├── components/             # Komponenty React
@@ -94,7 +94,7 @@ project-fashion-shop/
 1. Sklonuj repozytorium:
 
    ```bash
-   git clone https://github.com/brzozanet/project-fashion-shop.git
+   git clone https://github.com/brzozanet/fashion-shop.git
    cd react-shop-online
    ```
 
@@ -105,7 +105,6 @@ project-fashion-shop/
    ```
 
 3. Edytuj plik `.env` i ustaw odpowiednie wartości:
-
    - `VITE_BACKEND_URL` - adres serwera backend (domyślnie: http://localhost:3000)
 
 4. W terminalu wywołaj:
@@ -153,4 +152,4 @@ Backend udostępnia następujące endpointy:
 
 <br>
 
-![Screenshot App](https://raw.githubusercontent.com/brzozanet/project-fashion-shop/main/front-end/src/images/gh-cover-react-shop-online.jpg)
+![Screenshot App](https://raw.githubusercontent.com/brzozanet/fashion-shop/main/front-end/src/images/gh-cover-react-shop-online.jpg)
